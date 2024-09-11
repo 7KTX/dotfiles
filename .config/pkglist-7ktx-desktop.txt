@@ -917,6 +917,7 @@ python-mpmath
 python-msgpack
 python-multidict
 python-multiprocess
+python-mutagen
 python-narwhals
 python-nest-asyncio
 python-networkx
@@ -1081,19 +1082,18 @@ rtkit
 rubberband
 ruby
 rubygems
+ruff
 runc
 s-tui
 sbc
 sdbus-cpp
 sdl2
-sdl2_net
 sdl2_ttf
 seatd
 sed
 semver
 serd
 serf
-sgdboop-bin
 shaderc
 shadow
 shared-mime-info
@@ -1103,7 +1103,6 @@ slang
 slurp
 snappy
 sndio
-soh-bin
 sord
 sound-theme-freedesktop
 spdlog
@@ -1123,7 +1122,6 @@ sudo
 suitesparse
 sunshine-bin
 svt-av1
-sway
 sway-launcher-desktop-git
 swaybg
 syncthing
@@ -1147,7 +1145,6 @@ thorium-browser-bin
 thrift
 tinycompress
 tk
-tlapbot-bin
 tomlplusplus
 tpm2-tss
 tracker3
@@ -1206,7 +1203,6 @@ wireplumber
 wl-clipboard
 wl-clipboard-x11
 wlr-randr
-wlroots0.17
 woff2
 wootomation-appimage
 wpa_supplicant

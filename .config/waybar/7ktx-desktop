@@ -1,7 +1,7 @@
 {        "clock": {
             "format": "{:%H:%M:%OS %d/%m }| ",
-            "interval": 1
-        },
+            "interval": 1,
+	    },
         "custom/ram": {
             "format": "RAM: {} MB | ",
             "exec": "free -m | awk '/^Mem:/{print $3}'",

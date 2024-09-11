@@ -1,7 +1,9 @@
-[{
+[
+    {
         "css": "style.css",
         "position": "top",
-        "layer": "top",
+        "layer": "overlay",
+        "height": 30,
         "modules-center": [
             "hyprland/workspaces",
             "clock",
@@ -10,14 +12,15 @@
             "custom/cpu_temp",
             "custom/gpu_temp",
             "battery",
-            "tray",
+            "tray"
         ],
         "include": ["$XDG_CONFIG_HOME/waybar/$(cat /etc/hostname)"]
     },
     {
         "css": "style.css",
         "position": "bottom",
-        "layer": "top",
+        "layer": "overlay",
+        "height": 30,
         "modules-center": [
             "hyprland/workspaces",
             "clock",
@@ -26,9 +29,8 @@
             "custom/cpu_temp",
             "custom/gpu_temp",
             "battery",
-            "tray",
+            "tray"
         ],
         "include": ["$XDG_CONFIG_HOME/waybar/$(cat /etc/hostname)"]
-
     }
 ]
