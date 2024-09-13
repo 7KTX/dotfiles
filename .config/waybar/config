@@ -2,9 +2,8 @@
     {
         "css": "style.css",
         "position": "top",
-        "layer": "overlay",
-        "height": 30,
-        "modules-center": [
+        "layer": "top",
+	"modules-center": [
             "hyprland/workspaces",
             "clock",
             "cava",
@@ -19,8 +18,7 @@
     {
         "css": "style.css",
         "position": "bottom",
-        "layer": "overlay",
-        "height": 30,
+        "layer": "top",
         "modules-center": [
             "hyprland/workspaces",
             "clock",
